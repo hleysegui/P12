@@ -19,7 +19,7 @@
 
 /* display background dark color on navbar scroll */
 .navbarScroll.navbarDark {
-    background-color: #5b5b5b;
+    background-color: black;
 }
 
 /* hero background image */
@@ -29,7 +29,9 @@
     background: url("images/image1.jpg");
     background-size: cover;
     position: relative;
+    background-color: blue;
 }
+
 /* text css above hero image*/
 .hero_title {
     font-size: 4.5rem;

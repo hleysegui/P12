@@ -1,0 +1,114 @@
+[
+    {
+        "categorie" : "Développement",
+        "titre": "Création d'un site vitrine",
+        "name": "Laface B",
+        "text" : "La Face B est un incubateur digitale qui accomapgne des dirigeants dans le développement de leurs startup que ce soit de la phase de l'idée au dévelopepment commerciale ",
+        "competences" : "Wordpress",
+        "images" : ["../assets/images/projects/lafaceb/image1.webp"],
+        "link" : "https://lafaceb.fr",
+        "github": "NC"
+    },
+    {
+        "categorie" : "Développement",
+        "titre": "Création d'un site vitrine",
+        "name": "Alam kidz school",
+        "text" : "Alam kidz school est une école basé à Bali en Indonésie",
+        "competences" : "Wordpress",
+        "images" : ["../assets/images/projects/alamkidz/alamkidz.webp"],
+        "link" : "https://alamkidz.com/",
+        "github": "NC"
+    },
+    {
+        "categorie" : "Développement",
+        "titre": "Création d'un site internet",
+        "name": "Booki",
+        "text" : "Booki est un site permettant aux usagers de trouver des hébergements et des activités dans la ville de leurs choix",
+        "mission" : "intégrer les maquettes du site",
+        "objectif" : "",
+        "competences" : "HTML,CSS",
+        "images" : ["../assets/images/projects/booki/image1.png"],
+        "link" : "",
+        "github": "https://github.com/hleysegui/P3-Booki"
+    },
+    {
+        "categorie" : "Test",
+        "titre": "",
+        "name": "JSE avocat",
+        "text" : "JSE avocat, est une agence qui souhaite mettre en ligne leur site internet afin de présenter le cabinet, leurs expertises et les avocats ",
+        "mission" : " Réalisation de test fonctionnels en suivant le chaier de recette et en menant des tests exploratoires",
+        "images" : ["../assets/images/projects/jse/jseavocat.webp"],
+        "link" : "",
+        "github": "NC"
+    },
+    {
+        "categorie" : "Test",
+        "titre": "Mener une campagne de test",
+        "name": "724Events",
+        "text" : "L'agence est spécialisée dans l'organisation d'évènement tel que des séminaires, des conférences, ect. et permet aux utilisateurs de s'inscrire à un évènement et de revoir les évènements passés",
+        "mission" : "Mener une campagne de test et réaliser les tests exploratoire pour s'assurer que le site fonctionne correctement et créer des tickets sur Jira pour la remonter des anomalies",
+        "images" : ["../assets/images/projects/724events/724events.webp"],
+        "link" : "",
+        "github": ""
+    },
+    {
+        "categorie" : "Développement",
+        "titre": "",
+        "name": "Portfolio de Sophie Bluel",
+        "text" : "Sophie Bluel est une architecte d'intérieur ",
+        "mission" : "",
+        "images" : ["../assets/images/projects/sophie/image1.webp"],
+        "link" : "",
+        "github": ""
+    },
+    {
+        "categorie" : "Développement",
+        "titre": "",
+        "name": "Kasa",
+        "text" : "",
+        "objectif" : "",
+        "images" : ["../assets/images/projects/kasa/image1.png"],
+        "link" : "",
+        "github": ""
+    },
+    {
+        "categorie" : "Test",
+        "titre": "",
+        "name": "EcoBliss",
+        "text" : "",
+        "objectif" : "",
+        "images" : ["../assets/images/projects/ecobliss/ecobliss.webp"],
+        "link" : "",
+        "github": ""
+    },
+    {
+        "categorie" : "Gestion de projet",
+        "titre": "",
+        "name": "MenuMaker",
+        "text" : "",
+        "objectif" : "",
+        "images" : ["../assets/images/projects/menumaker/menumaker.webp"],
+        "link" : "",
+        "github": ""
+    }, 
+    {
+        "categorie" : "Test",
+        "titre": "",
+        "name": "Projet Tomsen",
+        "text" : "",
+        "objectif" : "",
+        "images" : ["../assets/images/projects/tomsen/payforge.webp"],
+        "link" : "",
+        "github": ""
+    },
+    {
+        "categorie" : "Gestion de projet / Accompagnement",
+        "titre": "",
+        "name": "Fast facture",
+        "text" : "Fast facture est une société ",
+        "mission" : "Accom",
+        "images" : ["../assets/images/projects/fastfacture/fastfacture.webp"],
+        "link" : "",
+        "github": ""
+    }
+]

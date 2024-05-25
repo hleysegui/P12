@@ -1,0 +1,281 @@
+/******* GENERAL *******/
+/* spacing on all sections */
+body {
+    color: black !important;
+}
+
+#about,
+#skills,
+#portfolio,
+#contact {
+    margin-top: 4rem;
+    padding-top: 4rem;
+}
+#about h2,
+#skills h2,
+#portfolio h2,
+#contact h2 {
+    margin-bottom: 3rem;
+}
+#contact {
+    padding-bottom: 4rem;
+}
+
+/* display background dark color on navbar scroll */
+.navbarScroll.navbarDark {
+    background-color: black;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+#home {
+    margin-top: 4rem;
+    padding-top: 4rem;
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+/* hero background image */
+/* .bgimage {
+    height: 100vh;
+    max-height: 900px;
+    background: url("./images/image1.jpg");
+    background-size: cover;
+    position: relative;
+} */
+
+.arrow {
+	position: absolute;
+    top: 22rem;
+    
+}
+.arrow_left {
+	left: 2.5rem;
+}
+.arrow_right {
+	right: 2.5rem;
+}
+
+.container-fluid {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.occupation {
+    width: 40%;
+}
+
+.profile-picture {
+    width: 60vh;
+}
+
+.social-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 1rem;
+}
+
+.social-link i {
+    font-size: x-large;
+}
+
+/* text css above hero image*/
+.hero_title {
+    font-size: 4.5rem;
+    width: 80%;
+    margin-bottom: 2em;
+}
+
+.hero_title span {
+    float: right;
+}
+
+.hero_name {
+    text-transform: uppercase !important;
+}
+
+.hero_desc {
+    font-size: 1rem;
+}
+.hero-text {
+    color: black;
+}
+
+/* BANDEAU INFO */
+.info, .item_item {
+    padding: 2rem;
+    background-color: beige;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.info {
+    margin-top: 1.5rem;
+}
+
+/* about */
+#about {
+    margin-bottom: 4rem;
+}
+
+.imageAboutPage {
+    width: 100%;
+}
+.imageAboutPage {
+    border-radius: 50%;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0);
+}
+
+.card__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    row-gap: 3rem;
+    padding-bottom: 3rem;
+    padding-top: 4rem;
+}
+
+/* Skills card */
+.card__content {
+    width: 200px !important;
+    height: 193px;
+    background-color: orange;
+    display: flex;
+    flex-direction: column-reverse;
+    min-width: 26%;
+    
+}
+
+.card__content-body {
+    height: 70px;
+    background-color: white;
+}
+
+/* Scroll */
+.scroll__box{   
+    background-color: #F5F5F5;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px 0 4px 0;
+    color: #3B3C3E;
+    font-size: 12px;
+    font-weight: bold;
+    left: -1px;
+    padding: 10px 7px 5px;
+}
+
+.scroll__box{
+    /*max-height:200px;*/
+    overflow:auto;
+    overflow-x:hidden;
+    height: 600px !important;
+}
+
+
+/* skills */
+.skillsText.card {
+    height: 350px;
+    cursor: pointer;
+}
+.skillsText img {
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+}
+#skills p {
+    text-align: center;
+}
+.skillsIcon {
+    font-size: 36px;
+    text-align: center;
+    width: 100%;
+}
+/* Experience */
+.card {
+    width: 26%;
+}
+
+.pagination {
+    justify-content: center;
+    margin-bottom: 2.5rem;
+    column-gap: 20px;
+}
+
+.pagination a {
+    color: black;
+    text-decoration: none;
+    padding: 8px 16px;
+    border-radius: 5px;
+}
+
+.pagination a:hover {
+    cursor: pointer;
+}
+
+.pagination a.active {
+    background-color: black;
+    color: white;
+}
+/****/
+
+.card-title {
+    text-align: center;
+}
+.card:hover .skillsIcon {
+    color: #008000;
+}
+.skillsText:hover {
+    border: 1px solid #008000;
+}
+
+/* portfolio */
+#portfolio p {
+    text-align: center;
+}
+
+.portfolio__content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    row-gap: 2rem;
+    justify-content: space-around;
+}
+
+.card-img-top {
+    height: 120px;
+    object-fit: fill;
+}
+
+.filtered__project-item {
+    display: flex;
+    flex-direction: row;
+
+    li {
+        list-style: none;
+    }
+}
+
+/* contact */
+.contactColumn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.contactColumn i {
+    color: #198754;
+}
+
+/* footer */

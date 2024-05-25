@@ -1,0 +1,101 @@
+[
+    {
+        "date_start": "08/12/2022",
+        "date_end": "Aujourd'hui",
+        "agency": "Ashley SEGUI",
+        "location": "Remote",
+        "logo_agency": "Ashley SEGUI",
+        "mission": "Accompagner les clients dans la rédation de leurs cahiers de charges fonctionnels, Monter et piloter une équipes pour le développements de leurs solutions",
+        "skills": "Gestion de projet, Planification, Prospection, Figma, Bubble.io, Charte graphique, Cahier des charges",
+        "occupation": "Consultante",
+        "contract": "Freelance"
+    },
+    {
+        "date_start": "01/09/2021",
+        "date_end": "31/08/2022",
+        "agency": "Lycée André Malraux",
+        "location": "Montataire",
+        "logo_agency": "",
+        "mission": "Assistance par téléphone ou à distance afin de résoudre un incident sur un materiel informatique. Préparation des postes informatique pour unn futur usage (isntallation système exploitation, logiciels)",
+        "skills": "Maitrise des différents OS, logiciel bureautique",
+        "occupation": " Support de niveau 1 & 2",
+        "contract": "Contractuelle"
+    },
+    {
+        "date_start": "07/08/2018",
+        "date_end": "10/11/2023",
+        "agency": "Heavy&Tech",
+        "location": "Garges-les-Gonesse",
+        "logo_agency": "",
+        "mission": "En tant que fondatrice, mes missions ete riches et variées; Prospection client afin de trouver de nouveau projet, Accompagnement d'un client de l'analyse, conception à la résalisation de son projet web ou mobile. Publication, entretien et embauche de stagiaire et alternant. Intervention dans des datacenters en tant que technicien Rack and Stack pour l'installation, raccordement et configuration de serveur. Embauche de technicien Rack and Stack",
+        "skills": "HTML,CSS, JS, Flutter, PHP, Symfony, Figma, Rédation de cahier des charges, Planification, Recrutement, Animation des équipes",
+        "occupation": "Fondatrice",
+        "contract": "Entrepreueur"
+    },
+    {
+        "date_start": "06/11/2017",
+        "date_end": "05/2018",
+        "agency": "is&a bloom",
+        "location": "Paris 7",
+        "logo_agency": "../assets/images/logo_agency/iseabloom.jpeg",
+        "mission": "Accompagner, Planifier les différents projets de l'entreprise, répondre à des appels d'offres dans le but de réussir à acquérir de nouveau projet, Manager les différents ressources affecter aux projets. Tester fonctionnelements les projets enn pré-prod avant la mise en production et rapporter d'eventuels anomalies",
+        "skills": "Gestion de projet, Animation d'équipe, Test fonctionnel, Planification, Analyse et conception",
+        "occupation": "Chef de projet web junior",
+        "contract": "CDI"
+    },
+    {
+        "date_start": "13/02/2017",
+        "date_end": "04/08/2017",
+        "agency": "Aramis auto",
+        "location": "Arcueil",
+        "logo_agency": "../assets/images/logo_agency/aramisauto.jpg",
+        "mission": "Apporter des améliorations côté back mais également côté front sur la plateform pro.aramis.auto, plateforme permettant de mettre en vente des voitures aux enchères à destinations des profressionnels de l'automobile. Le nouveau module permettra lors de l'annnulation d'une vente aux enchères par un marchand de pouvoir remettre cette dernière sur le marché de manière automatiser.",
+        "skills": "PHP, Symfony, Redmine, JS, Mandrill, Github, liquibase, Ant ",
+        "occupation": "Développeur Full stack",
+        "contract": "Stage"
+    },
+    {
+        "date_start": "02/11/2015",
+        "date_end": "22/01/2016",
+        "agency": "Westwing",
+        "location": "Paris",
+        "logo_agency": "../assets/images/logo_agency/westwing.jpeg",
+        "mission": "Conception et réalisation d'un outil interne à l'entreprise afinn de permettre à l'équipe supply de pouvoir valider les différents articles d'une campagne de vente avec les fournisseurs avant la mise en ligne d'un article",
+        "skills": "PHP, Symfony, MySQL, Doctrine, Eclipse, FileZilla, Bootstrap",
+        "occupation": "Développeur web",
+        "contract": "Stage"
+    },
+    {
+        "date_start": "16/02/2015",
+        "date_end": "01/05/2015",
+        "agency": "Alternative developpement ",
+        "location": "Saint-Denis",
+        "logo_agency": "./../assets/images/logo_agency/ad.jpeg",
+        "mission": "Concevoir une solution pour changer le format de donnnées d'un fichier reçu en KML en .CSV pour à destination du Tour de France. Création d'un application pour le jeu télévisé Qui est la Taupe ?, réalisation des différentes interfaces graphiques et fonction du jeu. Evolution graphique sur la manche du jeu télévisé Harry afin de changer les habitudes utilisateurs et d'apporter unn nouvel aspect visuel  ",
+        "skills": "C#, VB.NET, Framework dot.net, Linq, Asmx",
+        "occupation": "Développeur",
+        "contract": "Stage"
+    },
+    {
+        "date_start": "19/05/2024",
+        "date_end": "01/08/2014",
+        "agency": "IMEX DISTRIBUTION",
+        "location": "Bordeaux",
+        "logo_agency": "IMEX DISTRIBUTION",
+        "mission": "Création d'un outil de webscraping afin d'extraire des données d'une page web à partir d'une url et création d'un outil de gestion interne permettant de récolter les questions fréquemments posées par les utilisateurs afin de pouvoir génnérer une FAQ",
+        "skills": "HTML, PHP, Symfony, Twig, Doctrine, Subversion, Eclipse, Wamp, Power AMC, Visual paradigme ",
+        "occupation": "Développeur web",
+        "contract": "Stage"
+    },
+    {
+        "date_start": "01/10/2013",
+        "date_end": "13/12/2013",
+        "agency": "SQLI",
+        "location": "Pessac",
+        "logo_agency": "../assets/images/logo_agency/sqli.png",
+        "mission": "La mission durant ce stage été d'apporter des évolutions à une application existante TBP et corriger les éventuels bugs",
+        "skills": "PHP, HTML, CSS, Smarty, JS, Ajax",
+        "occupation": "Développeur web et applicative",
+        "contract": "Stage"
+    }
+]
