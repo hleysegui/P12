@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import Card from "../CardXp"
+import Card from "../Card"
 
 function Experience() {
 

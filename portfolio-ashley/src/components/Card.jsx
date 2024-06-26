@@ -1,11 +1,16 @@
 import ProgressBar from "./ProgressBar"
 
-function CardProject({title, text, img, link, openModal, id, nbProject, description, name, github}) {
+function CardProject({title, text, img, link, openModal, id, nbProject, description, name, github, date, occupation}) {
     return (
         <div className="card">
             <img className="card-img-top" src={img} alt={title}/>
             <div className="card-body">
+            <div className="info-data"><span>{date}</span></div>
                 <h3 className="card-title">{title}</h3>
+                {
+                    occupation ? <h4 className="card-title">{occupation}</h4> : null
+                }
+                
                 <div className="text-center">
                     <p>{text}</p>
                     {nbProject ?
