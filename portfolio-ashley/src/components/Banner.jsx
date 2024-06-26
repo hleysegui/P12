@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react"
-import person from '../assets/images/person.png'
 import arrow_left from '../assets/images/arrow_left.png'
 import arrow_right from '../assets/images/arrow_right.png'
 
@@ -43,11 +42,11 @@ function Banner() {
                     <div className='hero_short-description'>
                     <p className="hero_desc">{data[index].desc}</p>
                     </div>
-                    <button type="button" className="btn btn-primary">Discutons</button>
+                    <a href="#contact" type="button" className="btn btn-success">Discutons</a>
                 </div>
                 <div className='profile'>
                     <div className="profile-picture">
-                        <img src={person} className="imageAboutPage" alt="ashley photo"/>
+                        <img src={data[index].image} className="imageAboutPage" alt="ashley photo"/>
                     </div>
                     <div className='social-link'>
                         <a href=''><i className="bi bi-linkedin"></i></a>

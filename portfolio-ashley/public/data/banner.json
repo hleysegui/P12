@@ -1,17 +1,20 @@
 [
     {
-        "title" : "Testeuse",
-        "title2" : "logiciel",
-        "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec nisi eget orci blandit iaculis ac congue mi. Nunc dictum justo id laoreet viverra"
-    },
-    {
         "title" : "Cheffe de",
         "title2" : "Projet",
-        "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec nisi eget orci blandit iaculis ac congue mi. Nunc dictum justo id laoreet viverra"
+        "desc" : "Diplomée d'une grande école avec plus de 6 ans d'éxpériences, et plus d'une dizaine de projets piloté dans des secteurs d'activités trés variés (mobilité, gaming, finance, immobilier, cosmétique...)",
+        "image" : "../assets/images/ashley_chef.jpeg"
+    },
+    {
+        "title" : "Testeuse",
+        "title2" : "logiciel",
+        "desc" : "Formation certifiante équivalent bac+3, depuis 9 mois j'ai pu collaborer sur 5 projets web dans des secteurs d'activtés trés variées (évènementielle, légal, finance, cosmétique...)",
+        "image" : "../assets/images/ashley_test.jpeg"
     },
     {
         "title" : "Front-end",
         "title2" : "developpeur",
-        "desc" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nec nisi eget orci blandit iaculis ac congue mi. Nunc dictum justo id laoreet viverra"
+        "desc" : "Diplomée d'une grande école avec plus de 6 ans d'éxpériences, et plus d'une dizaine de projets piloté dans des secteurs d'activités trés variés (mobilité, gaming, finance, immobilier, cosmétique...)",
+        "image" : ""
     }
 ]

@@ -5,19 +5,41 @@
         "name": "Laface B",
         "text" : "La Face B est un incubateur digitale qui accomapgne des dirigeants dans le développement de leurs startup que ce soit de la phase de l'idée au dévelopepment commerciale ",
         "competences" : "Wordpress",
-        "images" : ["../assets/images/projects/lafaceb/image1.webp"],
+        "images" : [
+            "../assets/images/projects/lafaceb/image1.webp", 
+            "../assets/images/projects/lafaceb/lafaceb_1.png",
+            "../assets/images/projects/lafaceb/lafaceb_2.png",
+            "../assets/images/projects/lafaceb/lafaceb_3.png",
+            "../assets/images/projects/lafaceb/lafaceb_4.png",
+            "../assets/images/projects/lafaceb/lafaceb_5.png",
+            "../assets/images/projects/lafaceb/lafaceb_6.png",
+            "../assets/images/projects/lafaceb/lafaceb_7.png",
+            "../assets/images/projects/lafaceb/lafaceb_8.png",
+            "../assets/images/projects/lafaceb/lafaceb_9.png"
+
+        ],
         "link" : "https://lafaceb.fr",
-        "github": "NC"
+        "github": "",
+        "id": 1
     },
     {
         "categorie" : "Développement",
         "titre": "Création d'un site vitrine",
         "name": "Alam kidz school",
-        "text" : "Alam kidz school est une école basé à Bali en Indonésie",
+        "text" : "Alamkidz school est une école basé à Bali en Indonésie leurs site vitrine est dédié à la présentation de leurs école",
         "competences" : "Wordpress",
-        "images" : ["../assets/images/projects/alamkidz/alamkidz.webp"],
+        "images" : [
+            "../assets/images/projects/alamkidz/alamkidz.webp", 
+            "../assets/images/projects/alamkidz/alamkidz_1.png", 
+            "../assets/images/projects/alamkidz/alamkidz_2.png",
+            "../assets/images/projects/alamkidz/alamkidz_3.png",
+            "../assets/images/projects/alamkidz/alamkidz_4.png",
+            "../assets/images/projects/alamkidz/alamkidz_5.png",
+            "../assets/images/projects/alamkidz/alamkidz_6.png",
+            "../assets/images/projects/alamkidz/alamkidz_7.png"],
         "link" : "https://alamkidz.com/",
-        "github": "NC"
+        "github": "",
+        "id": 2
     },
     {
         "categorie" : "Développement",
@@ -27,9 +49,13 @@
         "mission" : "intégrer les maquettes du site",
         "objectif" : "",
         "competences" : "HTML,CSS",
-        "images" : ["../assets/images/projects/booki/image1.png"],
+        "images" : ["../assets/images/projects/booki/image1.png", 
+        "../assets/images/projects/booki/booki_1.png",
+        "../assets/images/projects/booki/booki_2.png",
+        "../assets/images/projects/booki/booki_3.png"],
         "link" : "",
-        "github": "https://github.com/hleysegui/P3-Booki"
+        "github": "https://github.com/hleysegui/P3-Booki",
+        "id": 3
     },
     {
         "categorie" : "Test",
@@ -39,7 +65,8 @@
         "mission" : " Réalisation de test fonctionnels en suivant le chaier de recette et en menant des tests exploratoires",
         "images" : ["../assets/images/projects/jse/jseavocat.webp"],
         "link" : "",
-        "github": "NC"
+        "github": "https://drive.google.com/drive/folders/1a6GtAfrwjblrvniavgp_Peo4ubH5n_KX",
+        "id": 4
     },
     {
         "categorie" : "Test",
@@ -49,66 +76,80 @@
         "mission" : "Mener une campagne de test et réaliser les tests exploratoire pour s'assurer que le site fonctionne correctement et créer des tickets sur Jira pour la remonter des anomalies",
         "images" : ["../assets/images/projects/724events/724events.webp"],
         "link" : "",
-        "github": ""
+        "github": "https://drive.google.com/drive/folders/1xW8e8Xv4kkUeV9Wuc7DKnM_OWywXdMVC",
+        "id": 5
     },
     {
         "categorie" : "Développement",
         "titre": "",
         "name": "Portfolio de Sophie Bluel",
-        "text" : "Sophie Bluel est une architecte d'intérieur ",
+        "text" : "Sophie Bluel est une architecte d'intérieur qui souhaite la mise en production de son site vitrine ",
         "mission" : "",
-        "images" : ["../assets/images/projects/sophie/image1.webp"],
+        "images" : ["../assets/images/projects/sophie/image1.webp", 
+        "../assets/images/projects/sophie/image1.webp", 
+        "../assets/images/projects/sophie/portfolio_1.png",
+        "../assets/images/projects/sophie/portfolio_2.png",
+        "../assets/images/projects/sophie/portfolio_3.png",
+        "../assets/images/projects/sophie/portfolio_4.png",
+        "../assets/images/projects/sophie/portfolio_5.png",
+        "../assets/images/projects/sophie/portfolio_6.png"],
         "link" : "",
-        "github": ""
+        "github": "https://github.com/hleysegui/P7-Portfolio-sophie",
+        "id": 6
     },
     {
         "categorie" : "Développement",
         "titre": "",
         "name": "Kasa",
-        "text" : "",
+        "text" : "Kasa est une application web de gestion de location immobilière",
         "objectif" : "",
         "images" : ["../assets/images/projects/kasa/image1.png"],
         "link" : "",
-        "github": ""
+        "github": "https://github.com/hleysegui/P8-Kasa",
+        "id": 7
     },
     {
         "categorie" : "Test",
         "titre": "",
         "name": "EcoBliss",
-        "text" : "",
+        "text" : "Ecobliss est un site de vente en ligne de produit de beauté écoresponsables dont le produit phare est un savon solide",
         "objectif" : "",
         "images" : ["../assets/images/projects/ecobliss/ecobliss.webp"],
-        "link" : "",
-        "github": ""
+        "link" : "https://drive.google.com/drive/folders/1TLOO29-NYAVqdatMJNya8bwV1cr2ZB4J",
+        "github": "https://github.com/hleysegui/P10.git",
+        "id": 8
     },
     {
         "categorie" : "Gestion de projet",
         "titre": "",
         "name": "MenuMaker",
-        "text" : "",
+        "text" : "Qwenta souhaite faire développer MenuMaker un site permettant aux restaurateurs d'afficher et mettre en page leurs menus",
         "objectif" : "",
         "images" : ["../assets/images/projects/menumaker/menumaker.webp"],
         "link" : "",
-        "github": ""
+        "github": "https://drive.google.com/drive/folders/1eAosOJH0m3W8UbX5gYfQ1FMvk-Lt7UWi",
+        "id": 9
     }, 
     {
         "categorie" : "Test",
         "titre": "",
         "name": "Projet Tomsen",
-        "text" : "",
+        "text" : "L'entreprise PayForge est spécialisée dans la finance et m-souhaite mettre en place leurs applicationns de gestion",
         "objectif" : "",
         "images" : ["../assets/images/projects/tomsen/payforge.webp"],
         "link" : "",
-        "github": ""
+        "github": "https://drive.google.com/drive/folders/1bveUT1eHeoWD_Ru17GpUtsIqsLfpzOCz",
+        "id": 10
     },
     {
-        "categorie" : "Gestion de projet / Accompagnement",
+        "categorie" : "Gestion de projet",
         "titre": "",
         "name": "Fast facture",
-        "text" : "Fast facture est une société ",
+        "text" : "Fast facture est une société permettant au tpe/pme de faire un rapprochement bancaire au paiement de leurs achats",
         "mission" : "Accom",
         "images" : ["../assets/images/projects/fastfacture/fastfacture.webp"],
         "link" : "",
-        "github": ""
+        "github": "https://drive.google.com/drive/folders/1nTNJVm4BN-nwUObFdgIfcR-M6mCOZXZ1",
+        "id": 11
     }
 ]

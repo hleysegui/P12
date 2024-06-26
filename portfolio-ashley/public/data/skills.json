@@ -3,29 +3,34 @@
         "titre_menu" : "Langage de programmation",
         "skills" : [ 
             {
-                "icon" : "",
-                "description":"Ceci est un test 1",
-                "skill" : "php"
+                "icon" : "../assets/images/skills/php.png",
+                "skill" : "php",
+                "nbProject": "five"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test 2",
-                "skill" : "CSS"
+                "icon" : "../assets/images/skills/css.png",
+                "skill" : "CSS",
+                "nbProject": "five"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test 3",
-                "skill" : "HTML"
+                "icon" : "../assets/images/skills/html.png",
+                "skill" : "HTML",
+                "nbProject": "five"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test 4",
-                "skill" : "VB.net"
+                "icon" : "../assets/images/skills/vb.png",
+                "skill" : "VB.net",
+                "nbProject": "one"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test 5",
-                "skill" : "C#"
+                "icon" : "../assets/images/skills/csharp.png",
+                "skill" : "C#",
+                "nbProject": "one"
+            },
+            {
+                "icon" : "../assets/images/skills/js.png",
+                "skill" : "Javascript",
+                "nbProject": "five"
             }
         ]
     },
@@ -33,14 +38,19 @@
         "titre_menu" : "CMS/No-code",
         "skills" : [ 
             {
-                "icon" : "",
-                "description":"Ceci est un test 6",
-                "skill" : "Wordpress"
+                "icon" : "../assets/images/skills/wordpress.png",
+                "skill" : "Wordpress",
+                "nbProject": "three"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test 7",
-                "skill" : "Bubble.io"
+                "icon" : "../assets/images/skills/bubble.png",
+                "skill" : "Bubble.io",
+                "nbProject": "one"
+            },
+            {
+                "icon" : "../assets/images/skills/woocommerce.png",
+                "skill" : "Woocommerce",
+                "nbProject": "one"
             }
         ]
     },
@@ -48,29 +58,29 @@
         "titre_menu" : "Gestion de projet",
         "skills" : [ 
             {
-                "icon" : "",
-                "description":"Ceci est un test 8",
-                "skill" : "Jira"
+                "icon" : "../assets/images/skills/jira.png",
+                "skill" : "Jira",
+                "nbProject": "two"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test 9",
-                "skill" : "Scrum"
+                "icon" : "../assets/images/skills/scrum.png",
+                "skill" : "Scrum",
+                "nbProject": "five"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test 10",
-                "skill" : "Kanban"
+                "icon" : "../assets/images/skills/kanban.png",
+                "skill" : "Kanban",
+                "nbProject": "five"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test 11",
-                "skill" : "Notion"
+                "icon" : "../assets/images/skills/notion.png",
+                "skill" : "Notion",
+                "nbProject": "four"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test 12",
-                "skill" : "Gantt"
+                "icon" : "../assets/images/skills/gantt.png",
+                "skill" : "Gantt",
+                "nbProject": "two"
             }
         ]
     },
@@ -78,24 +88,24 @@
         "titre_menu" : "Outils collaboratif",
         "skills" : [ 
             {
-                "icon" : "",
-                "description":"Ceci est un test 13",
-                "skill" : "Github"
+                "icon" : "../assets/images/skills/github.png",
+                "skill" : "Github",
+                "nbProject": "five"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test 14",
-                "skill" : "Trello"
+                "icon" : "../assets/images/skills/trello.png",
+                "skill" : "Trello",
+                "nbProject": "five"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test 15",
-                "skill" : "Figma"
+                "icon" : "../assets/images/skills/figma.png",
+                "skill" : "Figma",
+                "nbProject": "five"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test 16",
-                "skill" : "Slack"
+                "icon" : "../assets/images/skills/slack.png",
+                "skill" : "Slack",
+                "nbProject": "five"
             }
         ]
     },
@@ -103,24 +113,24 @@
         "titre_menu" : "Test logiciel",
         "skills" : [ 
             {
-                "icon" : "",
-                "description":"Ceci est un test",
-                "skill" : "Stratégie de test"
+                "icon" : "../assets/images/test.png",
+                "skill" : "Stratégie de test",
+                "nbProject": "one"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test",
-                "skill" : "Test exploratoire"
+                "icon" : "../assets/images/test.png",
+                "skill" : "Test exploratoire",
+                "nbProject": "two"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test",
-                "skill" : "Cypress"
+                "icon" : "../assets/images/skills/cypress.png",
+                "skill" : "Cypress",
+                "nbProject": "one"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test",
-                "skill" : "Vitest"
+                "icon" : "../assets/images/skills/vitest.png",
+                "skill" : "Vitest",
+                "nbProject": "one"
             }
         ]
     },
@@ -128,24 +138,29 @@
         "titre_menu" : "Framework",
         "skills" : [ 
             {
-                "icon" : "",
-                "description":"Ceci est un test",
-                "skill" : "Symfony"
+                "icon" : "../assets/images/skills/symfony.png",
+                "skill" : "Symfony",
+                "nbProject": "two"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test",
-                "skill" : "Flutter"
+                "icon" : "../assets/images/skills/flutter.png",
+                "skill" : "Flutter",
+                "nbProject": "one"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test",
-                "skill" : "React"
+                "icon" : "../assets/images/skills/reacts.jpg",
+                "skill" : "React",
+                "nbProject": "three"
             },
             {
-                "icon" : "",
-                "description":"Ceci est un test",
-                "skill" : "Express"
+                "icon" : "../assets/images/skills/express-js.png",
+                "skill" : "Express",
+                "nbProject": "one"
+            },
+            {
+                "icon" : "../assets/images/skills/next-js.jpeg",
+                "skill" : "Next.js",
+                "nbProject": "one"
             }
             
         ]

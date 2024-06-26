@@ -1,10 +1,11 @@
-import { useState } from 'react'
-import Navbar from './components/Navbar.jsx'
-import Banner from './components/Banner.jsx'
-import About from './components/About.jsx'
-import Test from './components/Test.jsx'
-import Experience from './components/Experience.jsx'
-import Projet from './components/Projet.jsx'
+import Banner from "./components/Banner"
+import Navbar from "./components/Navbar"
+import About from "./components/section/About"
+import Competence from "./components/section/Competence.jsx"
+import Contact from "./components/section/Contact"
+import Diplome from "./components/section/Diplome"
+import Experience from "./components/section/Experience"
+import Projet from "./components/section/Projet"
 
 function App() {
 
@@ -12,10 +13,12 @@ function App() {
     <>
       <Navbar />
       <Banner />
-      <Test />
       <About />
+      <Competence />
       <Experience />
       <Projet />
+      <Diplome/>
+      <Contact/>
     </>
   )
 }
