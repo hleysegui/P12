@@ -15,13 +15,13 @@ function Navbar() {
                             <a className="nav-link" href="#home">Accueil</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#about">A propos</a>
+                            <a className="nav-link" href="#competences">Compétences</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#skills">Compétences</a>
+                            <a className="nav-link" href="#experience">Expériences</a>
                         </li>
                         <li className="nav-item">
-                            <a className="nav-link" href="#portfolio">Portfolio</a>
+                            <a className="nav-link" href="#portfolio">Projets</a>
                         </li>
                         <li className="nav-item">
                             <a className="nav-link" href="#contact">Contactez-moi</a>

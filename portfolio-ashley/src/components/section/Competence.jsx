@@ -42,7 +42,7 @@ function Competence() {
 
     return (
         
-        <section id="about">
+        <section id="competences">
             <div className="container mt-4 pt-4">
                 <h2 className="text-center">Compétences</h2>
                 <div className="row mt-4">
