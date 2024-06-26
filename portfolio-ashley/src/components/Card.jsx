@@ -1,11 +1,11 @@
 import ProgressBar from "./ProgressBar"
 
-function CardProject({titre, text, image, link, openModal, id, nbProject, description, name, github}) {
+function CardProject({title, text, img, link, openModal, id, nbProject, description, name, github}) {
     return (
         <div className="card">
-            <img className="card-img-top" src={image} />
+            <img className="card-img-top" src={img} alt={title}/>
             <div className="card-body">
-                <h3 className="card-title">{titre}</h3>
+                <h3 className="card-title">{title}</h3>
                 <div className="text-center">
                     <p>{text}</p>
                     {nbProject ?
@@ -14,10 +14,9 @@ function CardProject({titre, text, image, link, openModal, id, nbProject, descri
                             <ProgressBar nbProject={nbProject} />
                         </div>
                         : null
-                    
                     }
                     <div className="portfolioContent-btn">
-                        {link ? <a href={link} target="_blank" >Voir le site</a> : null }
+                        {link ? <a href={link} target="_blank" >Voir le site / drive</a> : null }
                         { github ? <a href={github} target="_blank">Lien du projet</a> : null}
 
                      {openModal ? 

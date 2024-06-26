@@ -67,10 +67,11 @@ function Competence() {
                                             return(
                                                 <Card
                                                     key={i}
-                                                    titre={s.skill}
-                                                    image={s.icon}
+                                                    title={s.title}
+                                                    img={s.icon}
                                                     text={s.description}
                                                     nbProject={s.nbProject}
+                                                    alt={s.title}
                                                 
                                                 />
                                             )
@@ -83,10 +84,11 @@ function Competence() {
                                             return (
                                                 <Card
                                                 key={i}
-                                                titre={s.skill}
-                                                image={s.icon}
+                                                title={s.title}
+                                                img={s.icon}
                                                 text={s.description}
                                                 nbProject={s.nbProject}
+                                                alt={s.title}
                                             
                                             />
                                         ) 

@@ -28,7 +28,7 @@ function About() {
                 <ul className="info__item-poste">
                     <li>CDI</li>
                     <li>Freelance</li>
-                    <li>Télétravail 2-3 jours / semaine</li>
+                    <li>Télétravail 2-3 j/s</li>
                 </ul>
             </div>
         </div>

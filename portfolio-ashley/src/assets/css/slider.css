@@ -69,6 +69,11 @@
     display: flex;
     justify-content: space-between;
     position: relative;
-/*     top: 240px;
-    column-gap: 65em; */
+    bottom: 28px;
+    column-gap: 2em;
+    
+    img {
+        width: 30px;
+        height: 30px;
+    }
 }

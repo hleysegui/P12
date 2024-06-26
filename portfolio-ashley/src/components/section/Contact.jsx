@@ -21,7 +21,7 @@ function Contact() {
                     <div className="col-lg-4 mt-4 contactColumn">
                         <i className="fa-brands fa-linkedin-in fa-4x"></i>
                         <h3>LinkedIn</h3>
-                        <a href="www.linkedin.com/in/ashley-segui-lubin-595275121">Ashley SEGUI</a>
+                        <a href="http://www.linkedin.com/in/ashley-segui-lubin-595275121" target="_blank">Ashley SEGUI</a>
                     </div>
                 </div>
             </div>

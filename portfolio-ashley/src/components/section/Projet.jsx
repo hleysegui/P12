@@ -82,13 +82,14 @@ function Projet() {
                     <Slider picture={projectPictures} alt={uniqueProject.name}/>
                    
                     <div className="modal-body__desc">
-                        <p>titre : </p>
-                        <p>Catégorie : </p> 
-                        <p>Qui sont il ? : </p> 
-                        <p>Mission : </p> 
-                        <p>Compétences acquises : </p> 
-                        <p>Lien du projet : </p> 
-                        <p>Lien du Github : </p> 
+                        <p>Titre : {uniqueProject.title} </p>
+                        <p>Catégorie : {uniqueProject.categorie} </p> 
+                        <p>Qui sont il ? : {uniqueProject.text} </p> 
+                        <p>Mission : {uniqueProject.mission} </p> 
+                        <p>Compétences acquises : {uniqueProject.competences} </p> 
+                        {uniqueProject.link ? <p>Lien du projet : <a href={uniqueProject.link}>{uniqueProject.link}</a></p> : null }
+                        {uniqueProject?.github ? <p>Lien du Github : <a href={uniqueProject.github}>{uniqueProject.github}</a></p> : null }
+                         
 
                     </div>
                 </div>
@@ -115,9 +116,9 @@ function Projet() {
                     defaultProject.map((p, index) => {
                         return (
                             <Card
-                                key={index}
-                                titre={p.name}
-                                image={p.images[0]}
+                                key={p.id}
+                                title={p.name}
+                                img={p.images[0]}
                                 text={p.text}
                                 link={p.link}
                                 openModal={() => openModal(p.id)}
@@ -128,9 +129,9 @@ function Projet() {
                         return (
                             <>
                                 <Card
-                                key={index}
-                                titre={p.name}
-                                image={p.images[0]}
+                                key={p.id}
+                                title={p.name}
+                                img={p.images[0]}
                                 text={p.text}
                                 link={p.link}
                                 openModal={() => openModal(p.id)}

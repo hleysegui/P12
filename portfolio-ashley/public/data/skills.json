@@ -4,32 +4,32 @@
         "skills" : [ 
             {
                 "icon" : "../assets/images/skills/php.png",
-                "skill" : "php",
+                "title" : "php",
                 "nbProject": "five"
             },
             {
                 "icon" : "../assets/images/skills/css.png",
-                "skill" : "CSS",
+                "title" : "CSS",
                 "nbProject": "five"
             },
             {
                 "icon" : "../assets/images/skills/html.png",
-                "skill" : "HTML",
+                "title" : "HTML",
                 "nbProject": "five"
             },
             {
                 "icon" : "../assets/images/skills/vb.png",
-                "skill" : "VB.net",
+                "title" : "VB.net",
                 "nbProject": "one"
             },
             {
                 "icon" : "../assets/images/skills/csharp.png",
-                "skill" : "C#",
+                "title" : "C#",
                 "nbProject": "one"
             },
             {
                 "icon" : "../assets/images/skills/js.png",
-                "skill" : "Javascript",
+                "title" : "Javascript",
                 "nbProject": "five"
             }
         ]
@@ -39,17 +39,17 @@
         "skills" : [ 
             {
                 "icon" : "../assets/images/skills/wordpress.png",
-                "skill" : "Wordpress",
+                "title" : "Wordpress",
                 "nbProject": "three"
             },
             {
                 "icon" : "../assets/images/skills/bubble.png",
-                "skill" : "Bubble.io",
+                "title" : "Bubble.io",
                 "nbProject": "one"
             },
             {
                 "icon" : "../assets/images/skills/woocommerce.png",
-                "skill" : "Woocommerce",
+                "title" : "Woocommerce",
                 "nbProject": "one"
             }
         ]
@@ -59,27 +59,27 @@
         "skills" : [ 
             {
                 "icon" : "../assets/images/skills/jira.png",
-                "skill" : "Jira",
+                "title" : "Jira",
                 "nbProject": "two"
             },
             {
                 "icon" : "../assets/images/skills/scrum.png",
-                "skill" : "Scrum",
+                "title" : "Scrum",
                 "nbProject": "five"
             },
             {
                 "icon" : "../assets/images/skills/kanban.png",
-                "skill" : "Kanban",
+                "title" : "Kanban",
                 "nbProject": "five"
             },
             {
                 "icon" : "../assets/images/skills/notion.png",
-                "skill" : "Notion",
+                "title" : "Notion",
                 "nbProject": "four"
             },
             {
                 "icon" : "../assets/images/skills/gantt.png",
-                "skill" : "Gantt",
+                "title" : "Gantt",
                 "nbProject": "two"
             }
         ]
@@ -89,22 +89,22 @@
         "skills" : [ 
             {
                 "icon" : "../assets/images/skills/github.png",
-                "skill" : "Github",
+                "title" : "Github",
                 "nbProject": "five"
             },
             {
                 "icon" : "../assets/images/skills/trello.png",
-                "skill" : "Trello",
+                "title" : "Trello",
                 "nbProject": "five"
             },
             {
                 "icon" : "../assets/images/skills/figma.png",
-                "skill" : "Figma",
+                "title" : "Figma",
                 "nbProject": "five"
             },
             {
                 "icon" : "../assets/images/skills/slack.png",
-                "skill" : "Slack",
+                "title" : "Slack",
                 "nbProject": "five"
             }
         ]
@@ -114,22 +114,22 @@
         "skills" : [ 
             {
                 "icon" : "../assets/images/test.png",
-                "skill" : "Stratégie de test",
+                "title" : "Stratégie de test",
                 "nbProject": "one"
             },
             {
                 "icon" : "../assets/images/test.png",
-                "skill" : "Test exploratoire",
+                "title" : "Test exploratoire",
                 "nbProject": "two"
             },
             {
                 "icon" : "../assets/images/skills/cypress.png",
-                "skill" : "Cypress",
+                "title" : "Cypress",
                 "nbProject": "one"
             },
             {
                 "icon" : "../assets/images/skills/vitest.png",
-                "skill" : "Vitest",
+                "title" : "Vitest",
                 "nbProject": "one"
             }
         ]
@@ -139,27 +139,27 @@
         "skills" : [ 
             {
                 "icon" : "../assets/images/skills/symfony.png",
-                "skill" : "Symfony",
+                "title" : "Symfony",
                 "nbProject": "two"
             },
             {
                 "icon" : "../assets/images/skills/flutter.png",
-                "skill" : "Flutter",
+                "title" : "Flutter",
                 "nbProject": "one"
             },
             {
                 "icon" : "../assets/images/skills/reacts.jpg",
-                "skill" : "React",
+                "title" : "React",
                 "nbProject": "three"
             },
             {
                 "icon" : "../assets/images/skills/express-js.png",
-                "skill" : "Express",
+                "title" : "Express",
                 "nbProject": "one"
             },
             {
                 "icon" : "../assets/images/skills/next-js.jpeg",
-                "skill" : "Next.js",
+                "title" : "Next.js",
                 "nbProject": "one"
             }
             

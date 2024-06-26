@@ -49,9 +49,9 @@ function Banner() {
                         <img src={data[index].image} className="imageAboutPage" alt="ashley photo"/>
                     </div>
                     <div className='social-link'>
-                        <a href=''><i className="bi bi-linkedin"></i></a>
-                        <a href=''><i className="bi bi-github"></i></a>
-                        <a href=''><i className="bi bi-whatsapp"></i></a>
+                        <a href="http://www.linkedin.com/in/ashley-segui-lubin-595275121" target="_blank"><i className="bi bi-linkedin"></i></a>
+                        <a href="https://github.com/hleysegui" target="_blank"><i className="bi bi-github"></i></a>
+                        <a href="https://wa.me/33659543524" target="_blank"><i className="bi bi-whatsapp"></i></a>
                     </div>
                 </div>
             </div> 

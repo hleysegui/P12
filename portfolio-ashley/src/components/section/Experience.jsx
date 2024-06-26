@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react"
-import CardXp from "../CardXp"
+import Card from "../CardXp"
 
 function Experience() {
 
@@ -36,13 +36,12 @@ function Experience() {
                 <div className="card__container xp__card">
                   {displayItems.map((xp, index) => {
                     return (
-                        <CardXp 
+                        <Card
                             img={xp.logo_agency}
-                            agency={xp.agency}
-                            alt={xp.agency}
-                            dateStart={xp.date_start}
-                            dateEnd={xp.date_end}
-                            mission={xp.mission}
+                            title={xp.title}
+                            alt={xp.title}
+                            date={xp.date}
+                            text={xp.text}
                             occupation={xp.occupation}
                             key={index}
                         />)
