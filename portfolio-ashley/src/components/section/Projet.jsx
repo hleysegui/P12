@@ -3,8 +3,6 @@ import Modal from "react-modal"
 import Card from '../Card'
 import Slider from "../Slider";
 
-
-
 const customStyles = {
     content: {
       top: '50%',
@@ -127,7 +125,6 @@ function Projet() {
                         )
                     }): filter.map((projet, indexProjet) => {
                         return (
-                            <>
                                 <Card
                                     key={indexProjet}
                                     title={projet.name}
@@ -138,7 +135,6 @@ function Projet() {
                                     github={projet.github}
                                 />
                                 
-                            </>
                         )
                     })
                 }
