@@ -2,19 +2,19 @@
     {
         "title" : "Cheffe de",
         "title2" : "Projet",
-        "desc" : "Diplomée d'une grande école avec plus de 6 ans d'éxpériences, et plus d'une dizaine de projets piloté dans des secteurs d'activités trés variés (mobilité, gaming, finance, immobilier, cosmétique...)",
+        "desc" : "Diplômée d'une grande école avec plus de 6 ans d'expérience, et plus d'une dizaine de projets piloté dans des secteurs d'activité très variés (mobilité, gaming, finance, immobilier, cosmétique...)",
         "image" : "../assets/images/ashley_chef.jpeg"
     },
     {
         "title" : "Testeuse",
         "title2" : "logiciel",
-        "desc" : "Formation certifiante équivalent bac+3, depuis 9 mois j'ai pu collaborer sur 5 projets web dans des secteurs d'activtés trés variées (évènementielle, légal, finance, cosmétique...)",
+        "desc" : "Formation certifiante équivalent bac+3, depuis 9 mois j'ai pu collaborer sur 5 projets web dans des secteurs d'activité très variées (événementielle, légal, finance, cosmétique...)",
         "image" : "../assets/images/ashley_test.jpeg"
     },
     {
         "title" : "Front-end",
         "title2" : "developpeur",
-        "desc" : "Diplomée d'une grande école avec plus de 6 ans d'éxpériences, et plus d'une dizaine de projets piloté dans des secteurs d'activités trés variés (mobilité, gaming, finance, immobilier, cosmétique...)",
-        "image" : ""
+        "desc" : "Diplômée d'une grande école avec plus de 6 ans d'expérience, et plus d'une dizaine de projets piloté dans des secteurs d'activité très variés (mobilité, gaming, finance, immobilier, cosmétique...)",
+        "image" : "../assets/images/ashley_dev.jpeg"
     }
 ]

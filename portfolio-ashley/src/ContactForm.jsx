@@ -83,7 +83,7 @@ export default () => {
         <button type="submit" disabled={status.submitting} className="btn btn-success">
           {!status.submitting
             ? !status.submitted
-              ? 'Submit'
+              ? 'Envoyer'
               : 'Submitted'
             : 'Submitting...'}
         </button>

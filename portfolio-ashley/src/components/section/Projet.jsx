@@ -125,17 +125,17 @@ function Projet() {
                                 github={p.github}
                             />
                         )
-                    }): filter.map((p, index) => {
+                    }): filter.map((projet, indexProjet) => {
                         return (
                             <>
                                 <Card
-                                key={p.id}
-                                title={p.name}
-                                img={p.images[0]}
-                                text={p.text}
-                                link={p.link}
-                                openModal={() => openModal(p.id)}
-                                github={p.github}
+                                    key={indexProjet}
+                                    title={projet.name}
+                                    img={projet.images[0]}
+                                    text={projet.text}
+                                    link={projet.link}
+                                    openModal={() => openModal(projet.id)}
+                                    github={projet.github}
                                 />
                                 
                             </>
