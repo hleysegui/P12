@@ -7,15 +7,15 @@
         "competences" : "Wordpress",
         "images" : [
             "../assets/images/projects/lafaceb/image1.webp", 
-            "../assets/images/projects/lafaceb/lafaceb_1.png",
-            "../assets/images/projects/lafaceb/lafaceb_2.png",
-            "../assets/images/projects/lafaceb/lafaceb_3.png",
-            "../assets/images/projects/lafaceb/lafaceb_4.png",
-            "../assets/images/projects/lafaceb/lafaceb_5.png",
-            "../assets/images/projects/lafaceb/lafaceb_6.png",
-            "../assets/images/projects/lafaceb/lafaceb_7.png",
-            "../assets/images/projects/lafaceb/lafaceb_8.png",
-            "../assets/images/projects/lafaceb/lafaceb_9.png"
+            "../assets/images/projects/lafaceb/lafaceb_1.webp",
+            "../assets/images/projects/lafaceb/lafaceb_2.webp",
+            "../assets/images/projects/lafaceb/lafaceb_3.webp",
+            "../assets/images/projects/lafaceb/lafaceb_4.webp",
+            "../assets/images/projects/lafaceb/lafaceb_5.webp",
+            "../assets/images/projects/lafaceb/lafaceb_6.webp",
+            "../assets/images/projects/lafaceb/lafaceb_7.webp",
+            "../assets/images/projects/lafaceb/lafaceb_8.webp",
+            "../assets/images/projects/lafaceb/lafaceb_9.webp"
 
         ],
         "link" : "https://lafaceb.fr",
@@ -48,7 +48,7 @@
         "text" : "Booki est un site permettant aux usagers de trouver des hébergements et des activités dans la ville de leurs choix",
         "mission" : "intégrer les maquettes du site",
         "competences" : "HTML,CSS",
-        "images" : ["../assets/images/projects/booki/image1.png", 
+        "images" : ["../assets/images/projects/booki/image1.webp", 
         "../assets/images/projects/booki/booki_1.png",
         "../assets/images/projects/booki/booki_2.png",
         "../assets/images/projects/booki/booki_3.png"],
@@ -103,7 +103,7 @@
         "name": "Kasa",
         "text" : "Kasa est une application web de gestion de location immobilière",
         "mission" : "",
-        "images" : ["../assets/images/projects/kasa/image1.png"],
+        "images" : ["../assets/images/projects/kasa/image3.webp"],
         "link" : "",
         "github": "https://github.com/hleysegui/P8-Kasa",
         "id": 7

@@ -8,13 +8,8 @@
                 "nbProject": "five"
             },
             {
-                "icon" : "../assets/images/skills/css.png",
-                "title" : "CSS",
-                "nbProject": "five"
-            },
-            {
-                "icon" : "../assets/images/skills/html.png",
-                "title" : "HTML",
+                "icon" : "../assets/images/skills/html-css.webp",
+                "title" : "HTML - CSS",
                 "nbProject": "five"
             },
             {
@@ -28,7 +23,7 @@
                 "nbProject": "one"
             },
             {
-                "icon" : "../assets/images/skills/js.png",
+                "icon" : "../assets/images/skills/js.webp",
                 "title" : "Javascript",
                 "nbProject": "five"
             }
