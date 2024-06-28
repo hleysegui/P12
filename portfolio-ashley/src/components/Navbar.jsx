@@ -24,6 +24,9 @@ function Navbar() {
                             <a className="nav-link" href="#portfolio">Projets</a>
                         </li>
                         <li className="nav-item">
+                            <a className="nav-link" href="#formation">Formations</a>
+                        </li>
+                        <li className="nav-item">
                             <a className="nav-link" href="#contact">Contactez-moi</a>
                         </li>
                     </ul>
